@@ -3,7 +3,7 @@ JPEG files reader coded in C
 
 Compile using make
 
-Test the programe with ./bin/jpeg2ppm image/image_of_your_choice
+Test the program with ./bin/jpeg2ppm image/image_of_your_choice
 
 The output will be writen in the image folder as a ppm or pgm file with the same name as the input.
 
